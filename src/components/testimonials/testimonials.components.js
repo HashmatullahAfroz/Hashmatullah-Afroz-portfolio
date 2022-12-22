@@ -20,7 +20,7 @@ function Testimonials() {
       avatar: AVATAR1,
       name: "Muhib Ur Rahman Niazi",
       review:
-        "Since having our new website built by Hashmatullah Afroz, we have seen a 100% increase in the number of online contact forms being filled out and returned to us. Sayeedi and his team worked closely with us to provide a site that met all of the criteria that we were looking for. The end result was a website that is attractive, organized and effective. Thanks to Hashmatullah Afroz for all of your hard work and support!",
+        "Since having our new website built by Hashmatullah Afroz, we have seen a 100% increase in the number of online contact forms being filled out and returned to us. Afroz and his team worked closely with us to provide a site that met all of the criteria that we were looking for. The end result was a website that is attractive, organized and effective. Thanks to Hashmatullah Afroz for all of your hard work and support!",
     },
     {
       avatar: AVATAR2,
