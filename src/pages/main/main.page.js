@@ -8,7 +8,6 @@ import Nav from "../../components/nav/nav.components";
 import Portfolio from "../../components/portfolio/portfolio.components";
 import Services from "../../components/services/services.components";
 import Testimonials from "../../components/testimonials/testimonials.components";
-import "./main.page.scss";
 
 
 const Main = () => {

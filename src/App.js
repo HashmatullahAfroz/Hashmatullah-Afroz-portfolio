@@ -1,5 +1,4 @@
 import React from "react";
-import "./App.css";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import { Navigate } from "react-router-dom";
 import Main from "./pages/main/main.page";
