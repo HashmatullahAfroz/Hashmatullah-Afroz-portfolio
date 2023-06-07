@@ -25,13 +25,11 @@ function Contact() {
         "5sua96SjspJ0GyoJc"
       )
       .then(
-        (result) => {
-          console.log(result.text);
+        (result) => { 
           e.target.reset();
           setOpen(true);
         },
-        (error) => {
-          console.log(error.text);
+        (error) => { 
           alert(error.text);
         }
       );
@@ -53,9 +51,9 @@ function Contact() {
           <article className="contact_option">
             <MdOutlineEmail className="contact_option_icon" />
             <h4>Email</h4>
-            <h5>zaherhashmatullah1@gmail.com</h5>
+            <h5>ShadowWbDev@gmail.com</h5>
             <a
-              href="mailto:zaherhashmatullah1@gmail.com"
+              href="mailto:ShadowWbDev@gmail.com"
               target="_blank"
               rel="noreferrer"
             >
@@ -66,7 +64,7 @@ function Contact() {
           <article className="contact_option">
             <RiMessengerLine className="contact_option_icon" />
             <h4>Messenger</h4>
-            <h5>Hashmatullah Afroz</h5>
+            <h5>ShadowWbDev</h5>
             <a href="https://m.me/username" target="_blank" rel="noreferrer">
               Send a message
             </a>
