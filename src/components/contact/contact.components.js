@@ -25,11 +25,11 @@ function Contact() {
         "5sua96SjspJ0GyoJc"
       )
       .then(
-        (result) => { 
+        (result) => {
           e.target.reset();
           setOpen(true);
         },
-        (error) => { 
+        (error) => {
           alert(error.text);
         }
       );
