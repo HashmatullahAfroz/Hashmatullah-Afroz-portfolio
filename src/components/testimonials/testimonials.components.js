@@ -26,7 +26,7 @@ function Testimonials() {
       avatar: AVATAR2,
       name: "Mudaser Sayeedi",
       review:
-        "Velit in veniam cillum elit irure. Cillum eu pariatur ullamco id commodo commodo aliquip. Sit consectetur exercitation cillum consectetur nulla aliqua voluptate. Est commodo anim ipsum aute sunt nisi. Amet ex in nisi proident sit ut officia sint. Culpa do ad in culpa commodo aute.",
+        "i really appreciate, very good and reliable website he created for me.",
     },
     // {
     //   avatar: AVATAR3,
