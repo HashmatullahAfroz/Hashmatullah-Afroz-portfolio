@@ -2,8 +2,8 @@ import React from "react";
 import "./testimonials.components.scss";
 import AVATAR1 from '../../assets/images/avatar1.jpg';
 import AVATAR2 from '../../assets/images/avatar2.jpg';
-import AVATAR3 from '../../assets/images/avatar3.jpg';
-import avatar4 from "../../assets/images/avatar4.jpg";
+// import AVATAR3 from '../../assets/images/avatar3.jpg';
+// import avatar4 from "../../assets/images/avatar4.jpg";
 
 // Import Swiper React components
 import { Swiper, SwiperSlide } from "swiper/react";
