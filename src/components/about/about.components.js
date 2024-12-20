@@ -40,7 +40,7 @@ function About() {
           </div>
 
           <p>
-            I am an experienced software developer. I bring more than three
+            I am an experienced software developer. I bring more than fie years
             years’ experience writing PHP Web-Applications . successful working with WAMP
             stack and MERN stack.
           </p>
