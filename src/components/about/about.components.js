@@ -23,7 +23,7 @@ function About() {
             <article className="about_card">
               <FaAward className="about_icon" />
               <h5>Experience</h5>
-              <small>3+ Years Working</small>
+              <small>6+ Years Working</small>
             </article>
 
             <article className="about_card">
@@ -41,7 +41,7 @@ function About() {
 
           <p>
             I am an experienced software developer. I bring more than fie years
-            years’ experience writing PHP Web-Applications . successful working with WAMP
+            years experience writing PHP Web-Applications . successful working with WAMP
             stack and MERN stack.
           </p>
           <p>
