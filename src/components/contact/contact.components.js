@@ -51,9 +51,9 @@ function Contact() {
           <article className="contact_option">
             <MdOutlineEmail className="contact_option_icon" />
             <h4>Email</h4>
-            <h5>ShadowWbDev@gmail.com</h5>
+            <h5>Hashmatullah.Afroz@gmail.com</h5>
             <a
-              href="mailto:ShadowWbDev@gmail.com"
+              href="mailto:Hashmatullah.Afroz@gmail.com"
               target="_blank"
               rel="noreferrer"
             >
@@ -64,8 +64,8 @@ function Contact() {
           <article className="contact_option">
             <RiMessengerLine className="contact_option_icon" />
             <h4>Messenger</h4>
-            <h5>ShadowWbDev</h5>
-            <a href="https://m.me/username" target="_blank" rel="noreferrer">
+            <h5>linkedin</h5>
+            <a href="https://www.linkedin.com/messaging" target="_blank" rel="noreferrer">
               Send a message
             </a>
           </article>
@@ -73,9 +73,9 @@ function Contact() {
           <article className="contact_option">
             <BsWhatsapp className="contact_option_icon" />
             <h4>WhatsApp</h4>
-            <h5>+447424132003</h5>
+            <h5>+447860194058</h5>
             <a
-              href="https://api.whatsapp.com/send?phone=+447424132003 "
+              href="https://api.whatsapp.com/send?phone=+447860194058"
               target="_blank"
               rel="noreferrer"
             >
