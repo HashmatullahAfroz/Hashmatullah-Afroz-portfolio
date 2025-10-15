@@ -1,23 +1,25 @@
 {
   "files": {
     "main.css": "/Hashmatullah-Afroz-portfolio/static/css/main.90bd2b19.css",
-    "main.js": "/Hashmatullah-Afroz-portfolio/static/js/main.789483e9.js",
+    "main.js": "/Hashmatullah-Afroz-portfolio/static/js/main.c00c0f83.js",
     "static/js/787.047caa43.chunk.js": "/Hashmatullah-Afroz-portfolio/static/js/787.047caa43.chunk.js",
     "static/media/portfolio2.png": "/Hashmatullah-Afroz-portfolio/static/media/portfolio2.60221a5afead73f2109c.png",
     "static/media/portfolio1.png": "/Hashmatullah-Afroz-portfolio/static/media/portfolio1.b08e381813d5c6bfe1f4.png",
     "static/media/portfolio3.png": "/Hashmatullah-Afroz-portfolio/static/media/portfolio3.b59da3a03dc9525680f9.png",
-    "static/media/me.jpg": "/Hashmatullah-Afroz-portfolio/static/media/me.439b605fd703801ccf53.jpg",
-    "static/media/HashmatullahAfrozCV.pdf": "/Hashmatullah-Afroz-portfolio/static/media/HashmatullahAfrozCV.7dc063713180c1d30363.pdf",
+    "static/media/portfolio4.png": "/Hashmatullah-Afroz-portfolio/static/media/portfolio4.f9904e724f9efab1e50f.png",
+    "static/media/HashmatullahAfrozCV.pdf": "/Hashmatullah-Afroz-portfolio/static/media/HashmatullahAfrozCV.225798aa285356b6e2fa.pdf",
+    "static/media/me.jpg": "/Hashmatullah-Afroz-portfolio/static/media/me.5d2f7588d702536abdba.jpg",
     "static/media/me-about 2.png": "/Hashmatullah-Afroz-portfolio/static/media/me-about 2.b4330e08e3f18bae5e04.png",
+    "static/media/portfolio5.png": "/Hashmatullah-Afroz-portfolio/static/media/portfolio5.ea519ca7513bacbf86c7.png",
     "static/media/avatar1.jpg": "/Hashmatullah-Afroz-portfolio/static/media/avatar1.ad9ff9010c3843e77920.jpg",
     "service-worker.js": "/Hashmatullah-Afroz-portfolio/service-worker.js",
     "index.html": "/Hashmatullah-Afroz-portfolio/index.html",
     "main.90bd2b19.css.map": "/Hashmatullah-Afroz-portfolio/static/css/main.90bd2b19.css.map",
-    "main.789483e9.js.map": "/Hashmatullah-Afroz-portfolio/static/js/main.789483e9.js.map",
+    "main.c00c0f83.js.map": "/Hashmatullah-Afroz-portfolio/static/js/main.c00c0f83.js.map",
     "787.047caa43.chunk.js.map": "/Hashmatullah-Afroz-portfolio/static/js/787.047caa43.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.90bd2b19.css",
-    "static/js/main.789483e9.js"
+    "static/js/main.c00c0f83.js"
   ]
 }
