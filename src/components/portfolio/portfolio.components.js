@@ -3,6 +3,8 @@ import "./portfolio.components.scss";
 import IMG1 from "../../assets/images/portfolio1.png";
 import IMG2 from "../../assets/images/portfolio2.png";
 import IMG3 from "../../assets/images/portfolio3.png";
+import IMG4 from "../../assets/images/portfolio4.png";
+import IMG5 from "../../assets/images/portfolio5.png";
 
 // Import Swiper React components
 import { Swiper, SwiperSlide } from "swiper/react";
@@ -35,6 +37,20 @@ function Portfolio() {
       title: "Joker Themes",
       github: "https://github.com/HashmatullahAfroz/Joker-Themes",
       demo: "https://hashmatullahafroz.github.io/Joker-Themes",
+    },
+    {
+      id: 4,
+      image: IMG4,
+      title: "Mobile Van",
+      github: "https://github.com/HashmatullahAfroz/mobileVan",
+      demo: "https://hashmatullahafroz.github.io/mobileVan/",
+    },
+    {
+      id: 5,
+      image: IMG5,
+      title: "NetPix",
+      github: "https://github.com/HashmatullahAfroz/netpix",
+      demo: "https://hashmatullahafroz.github.io/netpix/",
     }
   ];
 
